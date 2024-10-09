@@ -9,7 +9,7 @@ This repository hosts the plotting code used in the paper "CAVE: Concurrency-Awa
 - `Notebook files`: Contains Jupyter notebooks for generating plots based on the experiment data.
 
 ## Usage
-- Modify the 'graph' parameter within the notebooks to alter the device or graph used in the experiment analyses. More details are provided within each notebook.
+- Modify the `graph` parameter within the notebooks to alter the device or graph used in the experiment analyses. More details are provided within each notebook.
 - Run the notebook. If you encounter any formatting issues (such as font size), rerun the last cell to produce the correct plot.
 
 ## Requirements
